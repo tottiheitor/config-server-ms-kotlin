@@ -5,5 +5,5 @@ management:
         include: '*'  # Corrigido também aqui
 
 greeting-service:
-  greeting: "Ciao"
+  greeting: "Pronto"
   default-value: "Mondo"
